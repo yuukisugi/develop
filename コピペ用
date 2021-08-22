@@ -1,3 +1,8 @@
 cd ~/environment/develop
 ls
 php artisan serve --port=8080
+
+git init
+git add .
+git commit -m 'メッセージ'
+git push origin main:main
