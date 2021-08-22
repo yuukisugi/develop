@@ -1,0 +1,3 @@
+cd ~/environment/develop
+ls
+php artisan serve --port=8080
